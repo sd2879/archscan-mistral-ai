@@ -1,5 +1,8 @@
 # ARCHSCAN
 
+![ARCHSCAN Logo](data/drone.jpeg)
+
+
 ARCHSCAN is an innovative tool designed to streamline the surveying process for large construction projects, specifically targeting the UK's underinvested infrastructure. By leveraging aerial footage, ARCHSCAN provides insightful summaries that go beyond human vision, reducing the need for extensive on-site visits.
 
 ## Inspiration
