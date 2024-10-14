@@ -2,8 +2,10 @@
 
 ![ARCHSCAN Logo](data/drone.jpeg)
 
-
 ARCHSCAN is an innovative tool designed to streamline the surveying process for large construction projects, specifically targeting the UK's underinvested infrastructure. By leveraging aerial footage, ARCHSCAN provides insightful summaries that go beyond human vision, reducing the need for extensive on-site visits.
+
+**This project was built during the Mistral AI Hackathon in London.**  
+Check out our project on Devpost: [ARCHSCAN on Devpost](https://devpost.com/software/archscan)
 
 ## Inspiration
 The UK's infrastructure has faced significant challenges due to prolonged underinvestment. Surveying and assessing the condition of infrastructure elements like bridges, buildings, and tunnels are labor-intensive and require skilled personnel. ARCHSCAN aims to simplify this process and empower surveyors and landowners by automating aerial footage analysis, providing actionable insights.
@@ -62,6 +64,11 @@ The tool is accessible through a Gradio UI, allowing users to select frames and 
 - Nebius
 - Python
 - PyTorch
+
+## Try It Out
+Check out the ARCHSCAN repository for code and further details:
+- [GitHub Repo](https://github.com/404missinglink/Pix4D-ArchScan/tree/UI_Finetune)
+
 ---
 
 Submit your feedback, and explore our continuous updates on our progress and new features.
